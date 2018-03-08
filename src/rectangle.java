@@ -3,8 +3,8 @@ public class rectangle {
 	public int width;
 
 	public rectangle(int l, int w) {
-		l = length;
-		w = width;
+		length = l;
+		width = w;
 	} 
 
 	public int getArea() {
